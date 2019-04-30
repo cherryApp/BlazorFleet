@@ -6,8 +6,4 @@
     <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="firesharp" Version="2.0.4" />
-  </ItemGroup>
-
 </Project>

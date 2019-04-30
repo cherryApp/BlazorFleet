@@ -44,10 +44,6 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
-            "firesharp": {
-              "target": "Package",
-              "version": "(, )"
-            },
             "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": {
               "include": "None",
               "suppressParent": "All",
